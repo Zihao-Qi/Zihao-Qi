@@ -4,6 +4,10 @@ I enjoy building useful software and then sticking around for the less glamorous
 
 ## What I've been working on
 
+### [HearAlong](https://github.com/Zihao-Qi/HearAlong)
+
+HearAlong is a private Mac assistant for meetings and talks. Speech recognition runs entirely on the Mac: a live transcript you can select to have any line explained, a board of key points during the meeting, and afterwards notes and next-step plans in which every claim quotes the transcript and is checked against it. I own the product, the requirements and every decision, and test it on real meetings and lectures. I built it by directing a small team of AI agents (Claude as architect and reviewer, GPT implementing, Gemini testing the UI), with a written contract and independent reviews for every change.
+
 ### [CodexBar contributions](https://github.com/steipete/CodexBar/pulls?q=is%3Apr+is%3Amerged+author%3AZihao-Qi)
 
 I've contributed more than 50 merged pull requests to CodexBar, a macOS menu bar app for tracking AI coding usage. My contributions range from new provider integrations and quota forecasts to UI fixes, billing calculations, and regression tests.
